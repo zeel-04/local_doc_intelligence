@@ -1,0 +1,24 @@
+{
+  "name": "local_doc_intelligence",
+  "version": "1.0.0",
+  "description": "Local document intelligence that parses and extracts grounded information.",
+  "homepage": "https://github.com/zeel-04/local_doc_intelligence#readme",
+  "bugs": {
+    "url": "https://github.com/zeel-04/local_doc_intelligence/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeel-04/local_doc_intelligence.git"
+  },
+  "license": "ISC",
+  "author": "zeel thumar",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^40.7.0"
+  }
+}
